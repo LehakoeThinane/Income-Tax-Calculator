@@ -47,4 +47,4 @@ A WordPress plugin for estimating South African income tax, PAYE, UIF, medical t
 
 ## License
 
-This project is currently provided without an explicit open-source license.
+This project is currently provided with an explicit open-source license under the GNU General Public License v2.0 or later (GPL-2.0-or-later).
